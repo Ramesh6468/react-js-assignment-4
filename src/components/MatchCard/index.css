@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.won {
+  color: #18ed66;
+  font-weight: bold;
+}
+.lost {
+  color: #e31a1a;
+  font-weight: bold;
+}
+.itemContainer2 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  margin: 20px;
+  width: 30vh;
+  padding: 20px;
+  border-radius: 20px;
+}
+.logo3 {
+  height: 100px;
+}
+.name5 {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 25px;
+}

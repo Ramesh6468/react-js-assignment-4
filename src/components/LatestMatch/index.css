@@ -1,0 +1,48 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.latestMatchContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.heading {
+  color: #ffffff;
+  margin-left: 20px;
+  font-size: 20px;
+}
+.logoContainer3 {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1e293b;
+  align-items: center;
+  border-radius: 20px;
+
+}
+.name2 {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.date {
+  color: #ffffff;
+  margin-left: 20px;
+}
+.venue {
+  color: #ffffff;
+  margin-left: 20px;
+}
+.result {
+  color: #ffffff;
+  margin-left: 20px;
+}
+.logo5 {
+  height: 200px;
+}
+.first {
+  color: #ffffff;
+  font-size: 20px;
+}
+.second {
+  color: #ffffff;
+}

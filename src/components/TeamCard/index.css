@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.teamListContainer {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  background-color: #ffffff33;
+  padding: 40px;
+  border-radius: 20px;
+  justify-content: center;
+  width: auto;
+  width: 50vh;
+  height: 20vh;
+}
+.image1 {
+  height: 100px;
+}
+.name {
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 10px;
+}
